@@ -1,0 +1,47 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.body {
+  background-color: #fff;
+}
+
+.address {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.navbar {
+  text-align: center;
+}
+
+li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 20px 50px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.experts {
+  text-align: center;
+}
+
+.service {
+  text-align: left;
+  margin-left: 50px;
+}
